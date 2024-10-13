@@ -1,0 +1,18 @@
+reducer should stay pure
+two ways:
+	in component useEffect with dispatch
+	writing custom action creaters
+
+project installation
+cartslice uislice
+uislice creation
+store creation
+cardbutton toogler fn
+
+cartslice, reducers
+additem removeitem
+dynamic prods
+task: additem wiring
+badge num
+task: multiple item problem
+task: +- buttons
